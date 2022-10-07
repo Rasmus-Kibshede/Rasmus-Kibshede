@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python and Node.js
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rasmus-kibshede-28a712142/)
 
 <!--
 **Rasmus-Kibshede/Rasmus-Kibshede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
