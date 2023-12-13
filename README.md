@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning typescript with node.js snd PHP with laravel.
+- 🌱 I’m currently learning typescript with node.js and PHP with laravel.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rasmus-kibshede-28a712142/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasmus-Kibshede)
